@@ -1,0 +1,1 @@
+import{_ as a,c as s,o as e,a1 as t}from"./chunks/framework.CQAhCBne.js";const k=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"test.md","filePath":"test.md"}'),o={name:"test.md"},p=t("",19),n=[p];function c(i,l,d,h,r,g){return e(),s("div",null,n)}const m=a(o,[["render",c]]);export{k as __pageData,m as default};
